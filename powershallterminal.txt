@@ -1,0 +1,8 @@
+get-packageprovider
+
+find-package -name git
+
+install-package git
+
+uninstall-package git
+

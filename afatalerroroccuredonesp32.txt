@@ -1,0 +1,20 @@
+https://www.youtube.com/watch?v=SX_Ovdm5HE0
+
+if you got this error : “A fatal error occurred: Failed to connect to ESP32: Timed out… Connecting…“
+you just need to try again following these steps:
+1-verify your code then upload it .
+2-wait until you see the "Connecting ....__.."message in your arduino IDE.
+3-press the ("BOOT" or "Flash" button) on your ESP board.
+4-then you can release your finger from the ("BOOT" or "Flash" button) after you pass the "connecting ...____..." line message.
+5-wait until upload is done 
+
+ESP32:                             https://dl.espressif.com/dl/package_esp32_index.json
+ESP8266:                        http://arduino.esp8266.com/stable/package_esp8266com_index.json
+ESP32 and ESP8266:    https://dl.espressif.com/dl/package_esp32_index.json, http://arduino.esp8266.com/stable/package_esp8266com_index.json
+
+
+new error
+
+Error while burning bootloader.
+avrdude: Expected signature for ATmega328P is 1E 95 0F
+         Double check chip, or use -F to override this check.

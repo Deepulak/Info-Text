@@ -1,0 +1,16 @@
+https://medium.com/@mac.window.10/install-configure-python-pytorch-on-windows-10-3531cb2583ba
+
+https://docs.anaconda.com/anaconda/install/windows/
+
+path enviroment variable
+
+Open Control Panel and go to System and Security>System. Alternatively, just type the following in the address bar in File Explorer.
+
+then go for the advanced system setting
+
+On the System Properties screen, go to the Advanced tab. Click the Environment Variables button at the very bottom. On the Environment Variables window, select Path from the User variables section and click Edit.
+
+On the Edit Environment variable window, click the New button. This will add a new field inside the list of paths. Once it’s active, click the Browse button and navigate to the folder where the EXE that you want to add to Path environment variables is. Click Ok, and you’re done.
+
+https://pub.towardsai.net/installing-pytorch-with-cuda-support-on-windows-10-a38b1134535e
+

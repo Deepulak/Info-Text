@@ -1,0 +1,25 @@
+get a video form hackersploit
+
+try to read a chapter from REACT
+
+find the face detection with dlib
+
+and transfer them to the linux and test them out
+
+
+this is the fb vulnerability 
+
+best blog
+
+ https://alaa0x2.medium.com/how-i-hacked-facebook-part-one-282bbb125a5d
+
+
+how to capture packet with monitor mode adapter and get the information
+
+
+how to see wifi password with wireshark
+
+restart the phone
+
+uninstall clouds see and smart shop
+
